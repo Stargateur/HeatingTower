@@ -1,7 +1,3 @@
-require("util")
-require("transport-belts")
-require("particles")
-
 local sounds = require("__base__.prototypes.entity.sounds")
 local explosion_animations = require("__base__/prototypes/entity/explosion-animations")
 
