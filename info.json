@@ -1,0 +1,10 @@
+{
+  "name": "HeatingTower",
+  "version": "0.0.0",
+  "title": "Heating Tower",
+  "author": "Stargateur",
+  "description": "Add space age heating tower as standalone.",
+  "factorio_version": "2.0",
+  "space_travel_required": true,
+  "dependencies": ["!space-age", "base"]
+}
