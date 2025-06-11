@@ -47,13 +47,13 @@ data:extend({ {
     max_health                           = 500,
     corpse                               = "heating-tower-remnants",
     dying_explosion                      = "heating-tower-explosion",
-    surface_conditions                   =
-    {
-      {
-        property = "pressure",
-        min = 10
-      }
-    },
+    -- surface_conditions                   =
+    -- {
+    --   {
+    --     property = "pressure",
+    --     min = 10
+    --   }
+    -- },
     consumption                          = "40MW",
     neighbour_bonus                      = 0,
     energy_source                        =
