@@ -215,7 +215,7 @@ data:extend({ {
         recipe = "steam-turbine"
       }
     },
-    prerequisites = { "chemical-science-pack" },
+    prerequisites = { "chemical-science-pack", "concrete" },
     unit =
     {
       count = 250,
